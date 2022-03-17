@@ -1,4 +1,4 @@
-# C++ auto-graded assignment template
+# Linear Data Structures
 
 [![Build Status](../../actions/workflows/classroom.yml/badge.svg)](../../actions/workflows/classroom.yml)
 ![Points bar](../../blob/badges/.github/badges/points-bar.svg)
